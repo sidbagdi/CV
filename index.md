@@ -1,7 +1,7 @@
-*Italics*
+*Italics*\
 **Bold**
-# Heading 1
-## Heading 2
+# Lionel Messi 
+## Cristiano Ronaldo
 [Google](www.google.com)
 ![Stock Image](https://i2-prod.manchestereveningnews.co.uk/incoming/article23294095.ece/ALTERNATES/s1200c/0_GettyImages-1238782208.jpg) "Ronaldo"
 > This is a quote
