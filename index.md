@@ -3,8 +3,11 @@
 # Lionel Messi 
 ## Cristiano Ronaldo
 [Google](www.google.com)
-![Stock Image](https://i2-prod.manchestereveningnews.co.uk/incoming/article23294095.ece/ALTERNATES/s1200c/0_GettyImages-1238782208.jpg) "Ronaldo"
+![Stock Image](giesel.jpg) "Ronaldo"
 > This is a quote
+
+[New Index](new_index.html)\
+[New Index](https://sidbagdi.github.io/CV/new_index.html)
 
 * Bruno
 * Cristiano
